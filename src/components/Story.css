@@ -1,0 +1,16 @@
+.urltitle{
+    color:grey;
+    font-size: 15px;
+    font-weight: normal;
+   }
+.Title{
+    display: flex;
+  flex-wrap: wrap;
+}
+.ChildPost{
+    color:grey;
+    font-size: small;
+    font-weight: normal;
+    
+}
+

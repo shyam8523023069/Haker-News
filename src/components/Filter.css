@@ -1,0 +1,14 @@
+form{
+    padding:10px 0px;
+}
+
+label{
+    padding:10px;
+    font-size: 15px;
+    margin-top:5px;
+}
+select{
+    background:#f6f6ef;
+    color:#5c5c5c;
+    font-size:15px;
+}
